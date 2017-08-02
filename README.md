@@ -2,6 +2,9 @@
 What is EOT? - Get more information here: 
 https://bit-media.org/news/what-is-eot/
 
+Join the encryption of things community here:
+http://encryptionofthings.org
+
 ## EOTCoin Node Source Code
 
 ### Guide: Compiling EOTCoin daemon in Ubuntu Linux
