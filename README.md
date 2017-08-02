@@ -1,4 +1,7 @@
 # EOTCoin
+What is EOT? - Get more information here: 
+https://bit-media.org/news/what-is-eot/
+
 ## EOTCoin Node Source Code
 
 ### Guide: Compiling EOTCoin daemon in Ubuntu Linux
