@@ -71,6 +71,6 @@ Add the following, save and exit:
 
 Run EOTCoind once more and if you did everything correctly, your daemon is now online! Type EOTCoind help for a full list of commands available. 
 
-To help our developers code faster, please buy them some coffee:
+###To help our developers code faster, please buy them some coffee:
 EOT Wallet: EXuU6PAJxD5qmVYAhYkusLZcgZ36T1aNJP
 BTC Wallet: 13v41hEUHrxfpM3L7kqvLNnaxvsgMqnXL2
