@@ -22,7 +22,7 @@ You will need a server with at least 512MB of RAM and 20GB Hard Drive.
     swapon /swapfile
 
 If fallocate doesn’t work, you can use
-    dd if=/dev/zero of=/swapfile bs=1024 count=1024288
+     dd if=/dev/zero of=/swapfile bs=1024 count=1024288
 instead.
 
 Initialize swapfile automatically on boot
@@ -71,6 +71,6 @@ Add the following, save and exit:
 
 Run EOTCoind once more and if you did everything correctly, your daemon is now online! Type EOTCoind help for a full list of commands available. 
 
-###To help our developers code faster, please buy them some coffee:
-EOT Wallet: EXuU6PAJxD5qmVYAhYkusLZcgZ36T1aNJP
-BTC Wallet: 13v41hEUHrxfpM3L7kqvLNnaxvsgMqnXL2
+### To help our developers code faster, please buy them some coffee:
+    EOT Wallet: EXuU6PAJxD5qmVYAhYkusLZcgZ36T1aNJP
+    BTC Wallet: 13v41hEUHrxfpM3L7kqvLNnaxvsgMqnXL2
