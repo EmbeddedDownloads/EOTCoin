@@ -45,12 +45,12 @@ Add this at the bottom: /swapfile none swap sw 0 0
 
 ### Strip the file to make it smaller, then relocate it:
 
-    strip EOTCOINd
-    cp EOTCOINd /usr/bin
+    strip EOTCoind
+    cp EOTCoind /usr/bin
 
 ### Now run the daemon:
 
-    EOTCOINd
+    EOTCoind
 
 It will return an error, telling you to set up config file in a directory. Now we’ll set up the config file. Note that this is case sensitive.
 
